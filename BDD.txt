@@ -1,0 +1,19 @@
+Funcionalidade: Registro de Usuário
+Como visitante do site,
+Quero criar uma nova conta de usuário,
+Para que eu possa acessar áreas restritas e personalizar minha experiência.
+
+Funcionalidade: Registro de Informações de Saúde do Usuário
+Como cliente,
+Quero registrar minhas informações de saúde iniciais,
+Para que eu possa acompanhar meu estado de saúde ao longo do tempo.
+
+Funcionalidade: Lembrete de Agendamento de Exame ou Medicamento
+Como paciente,
+Quero receber lembretes de meus agendamentos de exames ou medicamentos,
+Para que eu me mantenha atualizado sobre cada alteração e não perca nenhum compromisso importante relacionado à minha saúde.
+
+Funcionalidade: Lembrete de Agendamentos de Exames ou Medicamentos
+Como paciente,
+Quero ter uma lista de lembretes para meus exames ou medicamentos,
+Para que eu possa me manter atualizado e não perder nenhuma data importante.
